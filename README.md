@@ -2,11 +2,9 @@
 
 A complete VS Code setup for running Claude Code, packaged so you can install the whole thing in one click.
 
-VS Code is a free app from Microsoft. It was built for writing code, but it is really just a fast window for working with files, which is what makes it a good place to run an AI agent. You can see every file the agent touches, keep your own documents open next to it, and run Claude, Codex, and Gemini at the same time.
+VS Code is a free app from Microsoft. It was built for writing code, but no coding is needed here. It is really just a fast window for working with files, which is what makes it a good place to run an AI agent. You can see every file the agent touches, keep your own documents open next to it, and run Claude, Codex, and Gemini at the same time.
 
 Out of the box VS Code looks nothing like this. It arrives grey and cluttered with a sidebar full of things you don't need. The link in step 2 replaces all of that with the theme, the 9 extensions, and every setting, in one step.
-
-No coding needed. Free and MIT-licensed.
 
 > **Stuck at any point, ask Claude.** Copy this page into Claude, say which step you're on, and have it explain the part that isn't landing. This works before you have installed anything, from your phone or the web.
 
