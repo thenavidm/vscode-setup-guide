@@ -128,7 +128,7 @@ vscode-setup-guide/
 
 ## About the author
 
-Navid Moazzez is the founder of [Creator School AI](https://creatorschool.ai), creator of [AI Creator OS](https://creatorschool.ai/ai-creator-os), and host of the [AI Creator Summit](https://creatorschool.ai/ai-creator-summit), watched by 100,000+ creators. He helps creators and founders master AI and build their own AI Operating System (AI OS) that runs and automates their business and their life. This is the VS Code setup he runs Claude Code and every other AI agent in.
+Navid Moazzez is the founder of [Creator School AI](https://creatorschool.ai), creator of [AI Creator OS](https://creatorschool.ai/ai-creator-os), and host of the [AI Creator Summit](https://creatorschool.ai/ai-creator-summit), watched by 100,000+ creators. He helps creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life. This is the VS Code setup he runs Claude Code and every other AI agent in.
 
 **Links**
 
