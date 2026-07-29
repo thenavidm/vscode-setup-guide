@@ -4,7 +4,7 @@ A complete VS Code setup for running Claude Code, packaged so you can install th
 
 VS Code is a free app from Microsoft. It was built for writing code, but no coding is needed here. It is really just a fast window for working with files, which is what makes it a good place to run an AI agent. You can see every file the agent touches, keep your own documents open next to it, and run Claude, Codex, and Gemini at the same time.
 
-Out of the box VS Code looks nothing like this. It arrives grey and cluttered with a sidebar full of things you don't need. The link in step 2 replaces all of that with the theme, the 9 extensions, and every setting, in one step.
+Out of the box VS Code behaves like the code editor it is. Word wrap is off, so long paragraphs run off the right edge. Autosave is off. Files open in preview tabs that replace each other. Markdown opens as raw text. The minimap, breadcrumbs, sticky scroll and lightbulb hints are all on. The link in step 2 changes every one of those, and adds the theme and the 9 extensions, in one step.
 
 > **Stuck at any point, ask Claude.** Copy this page into Claude, say which step you're on, and have it explain the part that isn't landing. This works before you have installed anything, from your phone or the web.
 
