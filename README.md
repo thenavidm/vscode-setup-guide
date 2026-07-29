@@ -128,7 +128,19 @@ vscode-setup-guide/
 
 ## About the author
 
-Navid Moazzez is the founder of [Creator School AI](https://creatorschool.ai), creator of [AI Creator OS](https://creatorschool.ai/ai-creator-os), and host of the [AI Creator Summit](https://creatorschool.ai/ai-creator-summit), watched by 100,000+ creators. He helps creators and founders master AI and build their own AI Operating System (AI OS). This is the VS Code setup he runs Claude Code and every other AI agent in.
+Navid Moazzez is the founder of [Creator School AI](https://creatorschool.ai), creator of [AI Creator OS](https://creatorschool.ai/ai-creator-os), and host of the [AI Creator Summit](https://creatorschool.ai/ai-creator-summit), watched by 100,000+ creators. He helps creators and founders master AI and build their own AI Operating System (AI OS) that runs and automates their business and their life. This is the VS Code setup he runs Claude Code and every other AI agent in.
+
+**Links**
+
+- Creator School AI: [creatorschool.ai](https://creatorschool.ai)
+- AI Creator OS: [creatorschool.ai/ai-creator-os](https://creatorschool.ai/ai-creator-os)
+- AI Creator Summit: [creatorschool.ai/ai-creator-summit](https://creatorschool.ai/ai-creator-summit)
+- Personal website: [navid.me](https://navid.me)
+- Store: [navid.bio](https://navid.bio)
+- YouTube: [@thenavidm](https://youtube.com/@thenavidm?sub_confirmation=1) and [@creatorschoolai](https://youtube.com/@creatorschoolai?sub_confirmation=1)
+- X: [@thenavidm](https://x.com/thenavidm) and [@creatorschoolai](https://x.com/creatorschoolai)
+- Instagram: [@thenavidm](https://instagram.com/thenavidm)
+- LinkedIn: [thenavidm](https://linkedin.com/in/thenavidm)
 
 ## License
 
